@@ -1,0 +1,10 @@
+﻿  unittest.cpp
+  main.cpp
+  Generating Code...
+MathLib.lib(Matrix2.obj) : warning LNK4099: PDB 'MathLib.pdb' was not found with 'MathLib.lib(Matrix2.obj)' or at 'C:\Users\s171043\Documents\GitHub\AIE-Assignment-MathWithUnitTest\Debug\MathLib.pdb'; linking object as if no debug info
+MathLib.lib(Matrix3.obj) : warning LNK4099: PDB 'MathLib.pdb' was not found with 'MathLib.lib(Matrix3.obj)' or at 'C:\Users\s171043\Documents\GitHub\AIE-Assignment-MathWithUnitTest\Debug\MathLib.pdb'; linking object as if no debug info
+MathLib.lib(Matrix4.obj) : warning LNK4099: PDB 'MathLib.pdb' was not found with 'MathLib.lib(Matrix4.obj)' or at 'C:\Users\s171043\Documents\GitHub\AIE-Assignment-MathWithUnitTest\Debug\MathLib.pdb'; linking object as if no debug info
+MathLib.lib(Vector2.obj) : warning LNK4099: PDB 'MathLib.pdb' was not found with 'MathLib.lib(Vector2.obj)' or at 'C:\Users\s171043\Documents\GitHub\AIE-Assignment-MathWithUnitTest\Debug\MathLib.pdb'; linking object as if no debug info
+MathLib.lib(Vector3.obj) : warning LNK4099: PDB 'MathLib.pdb' was not found with 'MathLib.lib(Vector3.obj)' or at 'C:\Users\s171043\Documents\GitHub\AIE-Assignment-MathWithUnitTest\Debug\MathLib.pdb'; linking object as if no debug info
+MathLib.lib(Vector4.obj) : warning LNK4099: PDB 'MathLib.pdb' was not found with 'MathLib.lib(Vector4.obj)' or at 'C:\Users\s171043\Documents\GitHub\AIE-Assignment-MathWithUnitTest\Debug\MathLib.pdb'; linking object as if no debug info
+  UnitTest.vcxproj -> C:\Users\s171043\Documents\GitHub\AIE-Assignment-MathWithUnitTest\Debug\UnitTest.exe
